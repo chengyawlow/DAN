@@ -23,8 +23,20 @@ Deep Analytic Networks on Pre-trained VD-VGG-19 and ResNet-156 Features
 
 Top-1 Accuracy(%) for DAN + VD-VGG :
 
+recogRate_FT_TT =
 
+    L1 : 65.9800   
+    L2 : 67.9500   
+    L3 : 68.3400   
+    L4 : 68.9800   
+    L5 : 69.1800   
+    L6 : 69.2600   
+    L7 : 69.3000   
+    L8 : 69.3400*
 
+recogRate_BEST_FT =
+
+    69.3400 ( 8 )
 
 **************************************************************************************************
 
@@ -39,7 +51,7 @@ recogRate_FT_TT =
     L5 : 76.2800     
     L6 : 76.5900       
     L7 : 76.7500     
-    L8 : 76.8400
+    L8 : 76.8400*
 
 recogRate_BEST_FT =
 
@@ -49,4 +61,18 @@ recogRate_BEST_FT =
 
 Top-1 Accuracy(%) for DAN + VD-VGG + ResNet :
 
+recogRate_FT_TT =
+
+    L1 : 74.9600   
+    L2 : 77.1300
+    L3 : 77.5300
+    L4 : 77.8700 
+    L5 : 78.0200
+    L6 : 77.9100
+    L7 : 77.8300
+    L8 : 77.6300
+
+recogRate_BEST_FT =
+
+    78.0200 ( 5 )
 
