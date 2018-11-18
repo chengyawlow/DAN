@@ -21,14 +21,14 @@ Deep Analytic Networks on Pre-trained VD-VGG-19 and ResNet-156 Features
 
 **************************************************************************************************
 
-Sample Output for DAN + VD-VGG :
+Top-1 Accuracy(%) for DAN + VD-VGG :
 
 
 
 
 **************************************************************************************************
 
-Sample Output for DAN + ResNet :
+Top-1 Accuracy(%) for DAN + ResNet :
 
 recogRate_FT_TT =
 
@@ -47,6 +47,6 @@ recogRate_BEST_FT =
 
 **************************************************************************************************
 
-Sample Output for DAN + VD-VGG + ResNet :
+Top-1 Accuracy(%) for DAN + VD-VGG + ResNet :
 
 
