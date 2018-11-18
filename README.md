@@ -1,5 +1,4 @@
 # DAN
-Deep Analytic Networks on Pre-trained VD-VGG-19 and ResNet-156 Features
 
 **************************************************************************************************
 
@@ -10,6 +9,15 @@ Authors : C. Y. Low*, J. Park, A. B. J. Teoh
 Affl.   : Yonsei University, Seoul, South Korea; Multimedia University, Malaysia*
 
 Email   : chengyawlow@gmail.com; julypraise@gmail.com; bjteoh@yonsei.ac.kr
+
+**************************************************************************************************
+
+Deep Analytic Networks on Pre-trained VD-VGG-19 and ResNet-156 Features
+
+1.  To download the pre-learned, pre-extraxted VD-VGG-19 & ResNet-156 features, please email to:
+    chengyawlow@gmail.com
+    
+2.  Run DAN_TinyImageNet_Main
 
 **************************************************************************************************
 
