@@ -41,10 +41,6 @@ function DAN_TinyImageNet_Main( FEA_ID )
     % Set LAMBDA & LAMBDA_FT 
     LAMBDA = 10;
     LAMBDA_FT = 0.1;
-%     if FEA_ID == 2
-%         LAMBDA = 10;
-%         LAMBDA_FT = 0.1;
-%     end
     LAMBDA = LAMBDA .* ones( 1, NUM_LAYER );
     LAMBDA_FT = LAMBDA_FT .* ones( 1, NUM_LAYER );
     
