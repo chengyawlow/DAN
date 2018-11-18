@@ -1,5 +1,5 @@
 # DAN
-Deep Analytic Networks on Pre-trained VD-vGG-19 and ResNet-156 Features
+Deep Analytic Networks on Pre-trained VD-VGG-19 and ResNet-156 Features
 
 **************************************************************************************************
 
@@ -24,7 +24,14 @@ Sample Output for DAN + ResNet :
 
 recogRate_FT_TT =
 
-   72.6900     74.7700     75.4400     75.9800     76.2800     76.5900       76.7500     76.8400
+   L1 : 72.6900     
+   L2 : 74.7700     
+   L3 : 75.4400     
+   L4 : 75.9800     
+   L5 : 76.2800     
+   L6 : 76.5900       
+   L7 : 76.7500     
+   L8 : 76.8400
 
 recogRate_BEST_FT =
 
