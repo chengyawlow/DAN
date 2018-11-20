@@ -4,6 +4,7 @@
 % Title   : "Stacking-based Deep Neural Network: Deep Analytic Network for Pattern Classification" 
 % Authors : C. Y. Low*, J. Park, A. B. J. Teoh 
 % Affl.   : Yonsei University, Seoul, South Korea; Multimedia University, Malaysia* Email : chengyawlow@gmail.com; julypraise@gmail.com; bjteoh@yonsei.ac.kr
+% URL     : https://arxiv.org/abs/1811.07184
 
 % Set FEA_ID
 % FEA_ID = 1 : VD_VGG
