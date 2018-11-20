@@ -14,7 +14,7 @@ URL     : https://arxiv.org/abs/1811.07184
 
 **************************************************************************************************
 
-Deep Analytic Networks on Pre-trained VD-VGG-19 and ResNet-156 Features
+Deep Analytic Networks on Pre-trained VD-VGG-19 and ResNet-156 Features using TinyImageNet
 
 1.  To download the pre-learned, pre-extraxted VD-VGG-19 & ResNet-156 features, please email to:
     chengyawlow@gmail.com
