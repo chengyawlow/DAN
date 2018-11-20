@@ -1,5 +1,5 @@
 
-% Deep Analytic Networks on Pre-trained VD-vGG-19 and ResNet-156 Features
+% Deep Analytic Networks on Pre-trained VD-VGG-19 and ResNet-156 Features using TinyImageNet
 
 % Title   : "Stacking-based Deep Neural Network: Deep Analytic Network for Pattern Classification" 
 % Authors : C. Y. Low*, J. Park, A. B. J. Teoh 
