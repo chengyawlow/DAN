@@ -10,7 +10,7 @@ Affl.   : Yonsei University, Seoul, South Korea; Multimedia University, Malaysia
 
 Email   : chengyawlow@gmail.com; julypraise@gmail.com; bjteoh@yonsei.ac.kr
 
-DOI     : 10.1109/TCYB.2019.2908387, accepted by IEEE Transactions on Cybernetics, 
+DOI     : 10.1109/TCYB.2019.2908387, accepted by IEEE Transactions on Cybernetics
 
 **************************************************************************************************
 
