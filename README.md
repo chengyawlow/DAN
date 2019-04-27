@@ -2,7 +2,7 @@
 
 **************************************************************************************************
 
-Title   : "Stacking-based Deep Neural Network: Deep Analytic Network for Pattern Classification" 
+Title   : "Stacking-based Deep Neural Network: Deep Analytic Network for Pattern Classification"
 
 Authors : C. Y. Low*, J. Park, A. B. J. Teoh
 
@@ -10,7 +10,7 @@ Affl.   : Yonsei University, Seoul, South Korea; Multimedia University, Malaysia
 
 Email   : chengyawlow@gmail.com; julypraise@gmail.com; bjteoh@yonsei.ac.kr
 
-URL     : https://arxiv.org/abs/1811.07184
+DOI     : 10.1109/TCYB.2019.2908387, accepted by IEEE Transactions on Cybernetics, 
 
 **************************************************************************************************
 
